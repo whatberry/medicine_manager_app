@@ -12,6 +12,8 @@ yarn-error.log*
 selenium-debug.log
 {{/e2e}}
 
+platforms/
+
 # Editor directories and files
 .idea
 .vscode
